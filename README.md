@@ -86,3 +86,5 @@ I write weekly about building enterprise AI systems on LinkedIn. Recent topics:
 - **LinkedIn:** [linkedin.com/in/alaminasif](https://www.linkedin.com/in/alaminasif/)
 - **Email:** encrypt.h@gmail.com
 - **Location:** Munich, Germany
+
+---
