@@ -1,14 +1,14 @@
 # Al Amin
 
-### AI Engineer | MCP Architect | GenAI Platform Builder
+### AI Engineer | Agentic AI Platform Architect | GenAI Platform Builder
 
-I build production AI systems that connect to where enterprise data actually lives. Currently architecting AI tools at a Fortune 500 company in Munich.
+I build production agentic AI systems that connect to where enterprise data actually lives. Currently architecting AI tools at a Fortune 500 company in Munich.
 
 ---
 
 ## What I Build
 
-**Enterprise MCP Server Collection** — 9-system integration with 209+ AI tools
+**Enterprise MCP Server Collection (Agentic AI Platform)** — 9-system integration with 209+ AI tools
 - Confluence RAG with pgvector semantic search (60-80% token reduction)
 - AI-powered knowledge search (42x faster, 44% relevance improvement)
 - Suite tool aggregation (90% context overhead reduction: 15-20k → 2k tokens)
@@ -40,7 +40,7 @@ I build production AI systems that connect to where enterprise data actually liv
 
 ## Tech Stack
 
-**AI & GenAI:** Python, MCP SDK, LangChain, RAG, pgvector, Azure OpenAI, AWS Bedrock, Embeddings, Vector Databases
+**AI & GenAI:** Python, MCP SDK, LangChain, RAG, Agentic AI, Agentic Workflows, pgvector, Azure OpenAI, AWS Bedrock, Embeddings, Vector Databases
 
 **Frontend:** React, Next.js 15, TypeScript, Angular, Tailwind CSS
 
@@ -74,7 +74,7 @@ AI experiments and learning projects.
 
 I write weekly about building enterprise AI systems on LinkedIn. Recent topics:
 - MCP architecture for enterprise AI (209+ tools, 9 systems)
-- What AI-assisted development looks like in enterprise
+- What agentic AI development looks like in enterprise
 - Production RAG: what breaks at scale
 
 **[Follow on LinkedIn →](https://www.linkedin.com/in/alaminasif/)**
@@ -86,5 +86,3 @@ I write weekly about building enterprise AI systems on LinkedIn. Recent topics:
 - **LinkedIn:** [linkedin.com/in/alaminasif](https://www.linkedin.com/in/alaminasif/)
 - **Email:** encrypt.h@gmail.com
 - **Location:** Munich, Germany
-
----
