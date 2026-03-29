@@ -14,6 +14,12 @@ I build production agentic AI systems that connect to where enterprise data actu
 - Suite tool aggregation (90% context overhead reduction: 15-20k → 2k tokens)
 - Full-stack AI assistant: React, Next.js 15, TypeScript, real-time streaming
 
+**Autonomous Plugin Engine** — AI-driven code generation for enterprise integrations
+- Converts natural language → production MCP servers in 60 seconds
+- 49 engine tools, 2,836 tests, 6 auth archetypes (SSO, OAuth2, PAT, API key)
+- Learned knowledge base: URL patterns, auth signatures, API conventions
+- 15 production plugins auto-generated (2-3 days → 2 minutes per integration)
+
 **GenAI Platform Features** — Core contributor shipping production AI
 - Context-aware AI chat suggestions (Azure OpenAI, Python + Angular, 3,000+ lines)
 - Agent onboarding UX system (14 files, 61 commits)
@@ -34,6 +40,7 @@ I build production agentic AI systems that connect to where enterprise data actu
 | Context overhead reduction | 90% (15-20k → 2k tokens) |
 | Token reduction (RAG) | 60-80% via semantic chunking |
 | Search relevance improvement | 44% with trust scoring |
+| Integration dev time | 2-3 days → 2 minutes (plugin engine) |
 | CI/CD governance scale | 15+ teams, 100+ developers |
 
 ---
