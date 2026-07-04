@@ -61,6 +61,11 @@ I build production agentic AI systems that connect to where enterprise data actu
 
 ## Featured Projects
 
+### [Transformer From Scratch](https://github.com/al-amin/transformer-from-scratch)
+GPT-style language model built from first principles — hand-rolled attention math, no
+transformer library. Trained end-to-end (211,777 params, real loss curves + results
+documented). Includes a plain-language concepts walkthrough for every mechanism.
+
 ### [MCP MS Teams Webhook Integration](https://github.com/al-amin/outlook-mcp-server)
 AI-to-Teams messaging via MCP — Adaptive Cards, rate limiting, priority notifications. Open source.
 
